@@ -17,4 +17,16 @@ Este programa en C# presenta dos clases: `CEmpleado` y `CGerente`, donde la segu
    ```bash
    git clone https://github.com/SebastianTorres12/Actividad5.git
  
-   
+# Cómo Ejecutar y Probar el Programa
+
+## Abre el Proyecto:
+
+1. Abre Visual Studio Community 2022.
+2. Selecciona "File" > "Open" > "Project/Solution".
+3. Navega hasta el directorio donde clonaste el repositorio y selecciona el archivo de solución con la extensión (.sln).
+
+## Ejecuta el Programa:
+
+1. Abre `Program.cs`.
+2. En la clase `Program.cs` se encuentra la creación de los objetos de las clases Empleado y Gerente con sus respectivos métodos, actualmente se encuentran con datos quemados (cambiar de ser necesario). 
+3. Presiona F5 o selecciona "Debug" > "Start Debugging" para ejecutar el programa.
