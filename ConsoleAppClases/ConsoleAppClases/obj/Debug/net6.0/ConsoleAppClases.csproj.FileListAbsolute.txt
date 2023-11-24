@@ -1,0 +1,14 @@
+C:\Users\sebas\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\ConsoleAppClases\ConsoleAppClases\bin\Debug\net6.0\ConsoleAppClases.exe
+C:\Users\sebas\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\ConsoleAppClases\ConsoleAppClases\bin\Debug\net6.0\ConsoleAppClases.deps.json
+C:\Users\sebas\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\ConsoleAppClases\ConsoleAppClases\bin\Debug\net6.0\ConsoleAppClases.runtimeconfig.json
+C:\Users\sebas\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\ConsoleAppClases\ConsoleAppClases\bin\Debug\net6.0\ConsoleAppClases.dll
+C:\Users\sebas\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\ConsoleAppClases\ConsoleAppClases\bin\Debug\net6.0\ConsoleAppClases.pdb
+C:\Users\sebas\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\ConsoleAppClases\ConsoleAppClases\obj\Debug\net6.0\ConsoleAppClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\ConsoleAppClases\ConsoleAppClases\obj\Debug\net6.0\ConsoleAppClases.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\ConsoleAppClases\ConsoleAppClases\obj\Debug\net6.0\ConsoleAppClases.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\ConsoleAppClases\ConsoleAppClases\obj\Debug\net6.0\ConsoleAppClases.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\ConsoleAppClases\ConsoleAppClases\obj\Debug\net6.0\ConsoleAppClases.dll
+C:\Users\sebas\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\ConsoleAppClases\ConsoleAppClases\obj\Debug\net6.0\refint\ConsoleAppClases.dll
+C:\Users\sebas\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\ConsoleAppClases\ConsoleAppClases\obj\Debug\net6.0\ConsoleAppClases.pdb
+C:\Users\sebas\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\ConsoleAppClases\ConsoleAppClases\obj\Debug\net6.0\ConsoleAppClases.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\ConsoleAppClases\ConsoleAppClases\obj\Debug\net6.0\ref\ConsoleAppClases.dll
