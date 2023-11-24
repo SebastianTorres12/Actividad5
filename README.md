@@ -11,7 +11,7 @@ Este programa en C# presenta dos clases: `CEmpleado` y `CGerente`, donde la segu
 ## Cómo Ejecutar y Probar el Programa
 
 1. **Requisitos:**
-   - Asegúrate de tener Visual Studio Community 2022 instalado.
+   - Asegúrate de tener Visual Studio Community 2022 instalado y tener el módulo correspondiente para poder realizar aplicaciones de consola con C#.
 
 2. **Clona el Repositorio:**
    ```bash
